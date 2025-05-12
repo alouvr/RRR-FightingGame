@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "RRR Fighting Game.sln"
+    "dotnet.defaultSolution": "RRR-FightingGame.sln"
 }
